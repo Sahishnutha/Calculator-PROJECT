@@ -1,0 +1,14 @@
+body{
+    justify-content: center;
+    text-align: center;
+    background-image:url("https://cdn.pixabay.com/photo/2016/02/10/21/57/heart-1192662_640.jpg");
+    display: flex;
+}
+.outer{
+    border:15px solid white;
+    padding: 40px;
+    width: 340px;
+    height:1000px;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2t8KzWIDkcVVj2zLKbPFcHDpNr6eMoa-rvQ&usqp=CAU");
+    border-radius:40px 40px 40px 40px;
+}
